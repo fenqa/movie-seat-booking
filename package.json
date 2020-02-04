@@ -10,5 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "gh-pages": "^2.2.0"
-  }
+  },
+  "homepage": "https://fenqa.github.io/movie-seat-booking"
 }
